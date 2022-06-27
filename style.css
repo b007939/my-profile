@@ -1,0 +1,124 @@
+/*colors and fonts*/
+
+body {
+	background-color: #FFE6E6;
+	color: #BC6DCE4;
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-weight: bold;
+
+}
+
+h1,h2 {
+		font-family: font-family: 'Roboto', sans-serif;
+	
+ }
+h1 {
+
+
+	letter-spacing: 1px;
+	color:  #15133C;
+
+}
+selector {
+	property: value;
+	property: value;
+}
+h2 { color:  #748DA6;
+
+}
+
+a {text-decoration: none;
+	color:deeppink;
+}
+a: hover { 
+	color: #white;
+ }
+
+#logo {/* La_télé_la_télé/d373e125-3600-4a52-b642-da2055d33682.jpg */
+	width:  250px;
+}
+
+
+
+
+/*custom design with class*/
+.container {
+
+	width: 650px;
+	margin: 40px auto;
+}
+
+.card-whitebackground {
+
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+	border-radius: 20px;
+	margin: 20px 0px;
+
+}
+
+
+.card-whitesmockbackground { 
+background-color: #D0C9C0;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+border-radius: 20px;
+margin: 20px 0px
+
+ }
+
+.list-inline { 
+
+background-color: #D0C9C0;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+border-radius: 20px;
+margin: 20px 0px
+
+ }
+
+
+.img-circle {
+
+	border-radius: 50%;
+}
+
+.btn-grey{ 
+
+background-color: deeppink ;
+color: black;
+padding: 15px 20px;
+border-radius: 20px;
+ }
+.btn-grey: hover{ 
+background-color: deeppink ;
+color: white;
+ }
+
+
+
+.list-inline {
+
+	list-style: none;
+	padding left: 10px;
+
+}
+
+.list-inline li { 
+display:  inline; 
+padding:  50px; 
+margin: 40px auto;
+
+
+ }
+
+
+
+
+
+
+
